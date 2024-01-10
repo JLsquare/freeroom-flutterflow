@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "455077469000",
+    "project_id": "free-room-zyu508",
+    "storage_bucket": "free-room-zyu508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455077469000:android:4a3a26494e8da6558b317d",
+        "android_client_info": {
+          "package_name": "com.feur.freeroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455077469000-t8adftm15oek6s97p0ccrrg6e2hivi4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.feur.freeroom",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "455077469000-eh7v50t3fst9gfknup33k5iu9b3b6jbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGXF_PmyVPL9prdNWcOQv8bYdqcVAH8NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455077469000-eh7v50t3fst9gfknup33k5iu9b3b6jbi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "455077469000-butuggjn4eiu41b85brnfhkhb3q47fvr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.feur.freeroom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
